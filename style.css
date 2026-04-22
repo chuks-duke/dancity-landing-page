@@ -274,11 +274,11 @@ li{
 
 @media screen and (max-width: 768px) {
     .header-section{
-        padding: 10px 20px;
+    padding: 11px 20px;
     }
 
     .toggle-menu{
-        display: block;
+    display: block;
     }
 
     #ham-menu:checked ~ nav{
